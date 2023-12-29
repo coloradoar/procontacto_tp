@@ -1,6 +1,6 @@
 # Procontacto_tp
 
-*Hola mi nombre es Juan José tengo 32 años soy Diseñador Grafico, Diseñador UX/UI, CM, con conocimiento en HTML,CSS (, acontinuación dejo la resolución de la prueba tecnica.*
+*Hola mi nombre es Juan José tengo 32 años soy Diseñador Grafico, Diseñador UX/UI, CM, con conocimiento en HTML,CSS (https://github.com/coloradoar/atp), acontinuación dejo la resolución de la prueba tecnica.*
 
 --------------------------------------------------------------------------------
 
@@ -48,51 +48,63 @@ SOAP (Simple Object Access Protocol) es un protocolo de intercambio de informaci
 
 ### Ejercicio 3
 
-- Primer request [GET]<img width="1055" alt="get1" src="https://github.com/coloradoar/procontacto_tp/assets/84077767/8ce12a12-7615-4249-b704-dd8e252186ff">
+- Primer request [GET]
 
-- Request [POST]<img width="1051" alt="post" src="https://github.com/coloradoar/procontacto_tp/assets/84077767/94f97836-9ff1-4da8-b517-21aefa8b9ba6">
+  <img width="1055" alt="get1" src="https://github.com/coloradoar/procontacto_tp/assets/84077767/8ce12a12-7615-4249-b704-dd8e252186ff">
 
-- Segundo
-¿Qué diferencias se observan entre las llamadas el punto 1 y 3?
-Se puede ver cambios en los datos devueltos, como la inclusión de la nueva entrada creada con la solicitud POST. La respuesta del segundo GET refleja los datos actualizados después de realizar la solicitud POST.
+- Request [POST]
+
+  <img width="1051" alt="post" src="https://github.com/coloradoar/procontacto_tp/assets/84077767/94f97836-9ff1-4da8-b517-21aefa8b9ba6">
+
+- Segundo request [GET]
+
+  <img width="1013" alt="get2" src="https://github.com/coloradoar/procontacto_tp/assets/84077767/7dd5fda2-a643-4071-8461-e4b6516abfe5">
+
+
+>Se puede ver cambios en los datos devueltos, como la inclusión de la nueva entrada creada con la solicitud POST. La respuesta del segundo GET refleja los datos actualizados después de realizar la solicitud POST.
+
+--------------------------------------------------------------------------------------------
 
 ### Ejercicio 4
 
-https://www.salesforce.com/trailblazer/juanaguayog49ixux4c4tg
+Pueden ver mi perfil del SalesForce [aquí](https://www.salesforce.com/trailblazer/juanaguayog49ixux4c4tg).
 
-Ejercicio 5
+---------------------------------------------------------------------------------------------
 
-Lead: Representa a un cliente potencial o prospecto antes de convertirse en una oportunidad de venta.
+### Ejercicio 5
+
+1. Lead: Representa a un cliente potencial o prospecto antes de convertirse en una oportunidad de venta.
 Datos estándar: Nombre, empresa, cargo, estado, etc.
 
-Account: Representa a una empresa o entidad con la que se tiene una relación comercial.
+2. Account: Representa a una empresa o entidad con la que se tiene una relación comercial.
 Datos estándar: Nombre de la cuenta, tipo de industria, número de empleados, etc.
 
-Contact: Representa a una persona individual asociada a una cuenta.
+3. Contact: Representa a una persona individual asociada a una cuenta.
 Datos estándar: Nombre, cargo, correo electrónico, teléfono, etc.
 
-Opportunity: Representa una venta o trato potencial con un cliente.
+4. Opportunity: Representa una venta o trato potencial con un cliente.
 
-Datos estándar: Nombre de la oportunidad, etapa de la venta, monto esperado, etc.
+5. Datos estándar: Nombre de la oportunidad, etapa de la venta, monto esperado, etc.
 
-Product: Representa un bien o servicio ofrecido por la empresa.
+6. Product: Representa un bien o servicio ofrecido por la empresa.
 Datos estándar: Nombre, descripción, precio, etc.
 
-PriceBook: Contiene una lista de productos y sus precios asociados.
+7. PriceBook: Contiene una lista de productos y sus precios asociados.
 Datos estándar: Lista de productos con precios.
 
-Quote: Representa una cotización para un cliente con productos y precios.
+8. Quote: Representa una cotización para un cliente con productos y precios.
 Datos estándar: Productos, precios, cantidad, etc.
 
-Asset: Representa un bien vendido o instalado en un cliente.
+9. Asset: Representa un bien vendido o instalado en un cliente.
 Datos estándar: Nombre del activo, número de serie, fecha de instalación, etc.
 
-Case: Representa un problema o solicitud de un cliente.
+10. Case: Representa un problema o solicitud de un cliente.
 Datos estándar: Descripción del caso, estado, prioridad, etc.
 
-Article: Representa contenido como documentación o información relevante.
+11. Article: Representa contenido como documentación o información relevante.
 Datos estándar: Título, cuerpo del artículo, categoría, etc.
 
+Diagrama
 Ejercicio 6
 
 
