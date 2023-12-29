@@ -105,6 +105,49 @@ Datos estándar: Descripción del caso, estado, prioridad, etc.
 Datos estándar: Título, cuerpo del artículo, categoría, etc.
 
 Diagrama
-Ejercicio 6
 
+![alt text](https://github.com/coloradoar/procontacto_tp/assets/84077767/e7c4620a-14e1-41c2-ad88-593cba31ea82)
+
+
+### Ejercicio 6
+
+A. Salesforce es una plataforma de gestión de relaciones con los clientes (CRM) basada en la nube que ofrece una variedad de soluciones para ventas, servicio al cliente, marketing y más.
+B. Sales Cloud es una solución de Salesforce diseñada para mejorar los procesos de ventas y la gestión de oportunidades, clientes potenciales y cuentas.
+C. Service Cloud es una solución de Salesforce centrada en ofrecer un excelente servicio al cliente, gestionando casos, solicitudes y facilitando la colaboración en equipo.
+D. Health Cloud es una solución específica para el sector de la salud que permite a los profesionales sanitarios gestionar la atención al paciente de manera más efectiva.
+E. Marketing Cloud es una solución de Salesforce para la gestión y automatización de marketing, facilitando la creación y ejecución de campañas personalizadas.
+
+Funcionalidades de Salesforce:
+A. Un RecordType en Salesforce define los diferentes conjuntos de campos y páginas de diseño que estarán disponibles para un objeto en particular.
+B. Un ReportType en Salesforce define las relaciones entre objetos y determina qué campos están disponibles para la creación de informes.
+C. Un Page Layout en Salesforce define la disposición de los campos, secciones y acciones en una página de registro.
+D. Un Compact Layout en Salesforce define los campos esenciales y las acciones que se muestran en la vista de lista de registros.
+E. Un Perfil en Salesforce controla el acceso y los privilegios de un usuario, especificando qué datos y acciones puede ver y realizar.
+F. Un Rol en Salesforce determina el nivel de acceso a los datos para un usuario, especialmente en la jerarquía de ventas.
+G. Una Validation Rule en Salesforce establece condiciones para garantizar que los datos ingresados cumplan con ciertos criterios antes de guardarse.
+H. Una relación Master-Detail en Salesforce implica una dependencia fuerte, donde el maestro controla ciertos aspectos del detalle. Una relación Lookup es más independiente y no impone restricciones de eliminación.
+I. Un Sandbox en Salesforce es un entorno de desarrollo y prueba aislado que replica la configuración y los datos de una organización Salesforce.
+J. Un ChangeSet en Salesforce es una herramienta para migrar configuraciones y desarrollos entre entornos Salesforce.
+K. El Import Wizard facilita la importación de datos a Salesforce desde archivos CSV.
+L. Web to Lead permite capturar automáticamente la información de clientes potenciales desde formularios web y crear registros en Salesforce.
+M. Web to Case automatiza la creación de casos en Salesforce a partir de formularios web.
+N. Omnichannel en Salesforce permite gestionar de manera integrada la atención al cliente a través de múltiples canales.
+O. Chatter es una funcionalidad de colaboración social en Salesforce que facilita la comunicación y el intercambio de información entre usuarios.
+
+Conceptos generales:
+A. Software as a Service (SaaS) es un modelo de entrega de software donde las aplicaciones están alojadas en la nube y se accede a ellas a través de internet.
+B. Sí, Salesforce es una solución SaaS, ya que proporciona servicios de software a través de la nube.
+C. Cloud significa que la solución se entrega a través de la nube (internet) en lugar de instalarse localmente en dispositivos individuales.
+D. On-Premise significa que la solución se instala y opera en la infraestructura local de la organización, en lugar de depender de servicios en la nube.
+E. Un pipeline de ventas es un conjunto de etapas que representa el proceso de ventas, desde la adquisición de clientes potenciales hasta el cierre de ventas.
+F. Un funnel de ventas es una representación visual del proceso de ventas, mostrando la conversión de clientes potenciales a clientes a lo largo de varias etapas.
+G. Customer Experience (CX) se refiere a la percepción general de un cliente sobre su interacción con una empresa a lo largo de su ciclo de vida.
+H. Omnicanalidad se refiere a la capacidad de una empresa para brindar una experiencia consistente al cliente a través de múltiples canales de comunicación.
+I. B2B significa Business to Business (negocio a negocio), B2C significa Business to Consumer (negocio a consumidor), y KPI significa Key Performance Indicator (indicador clave de rendimiento).
+J. Una API (Interfaz de Programación de Aplicaciones) es un conjunto de reglas que permite que diferentes aplicaciones se comuniquen entre sí. Una REST API es un tipo específico de API que sigue los principios de la arquitectura REST para la comunicación.
+K. Un Proceso Batch en Salesforce es un proceso automatizado que realiza una secuencia de operaciones en lotes sobre registros.
+L. Kanban es un método visual para gestionar el trabajo, que se basa en tarjetas que representan tareas y se mueven a través de columnas que representan estados del proceso.
+M. Un ERP (Enterprise Resource Planning) es un sistema de planificación de recursos empresaria
+
+### Ejercicio 7
 
