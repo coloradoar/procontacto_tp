@@ -109,6 +109,9 @@ Diagrama
 ![alt text](https://github.com/coloradoar/procontacto_tp/assets/84077767/e7c4620a-14e1-41c2-ad88-593cba31ea82)
 
 
+------------------------------------------------------------------------------------------------------------
+
+
 ### Ejercicio 6
 
 A. Salesforce es una plataforma de gestión de relaciones con los clientes (CRM) basada en la nube que ofrece una variedad de soluciones para ventas, servicio al cliente, marketing y más.
@@ -147,7 +150,23 @@ I. B2B significa Business to Business (negocio a negocio), B2C significa Busines
 J. Una API (Interfaz de Programación de Aplicaciones) es un conjunto de reglas que permite que diferentes aplicaciones se comuniquen entre sí. Una REST API es un tipo específico de API que sigue los principios de la arquitectura REST para la comunicación.
 K. Un Proceso Batch en Salesforce es un proceso automatizado que realiza una secuencia de operaciones en lotes sobre registros.
 L. Kanban es un método visual para gestionar el trabajo, que se basa en tarjetas que representan tareas y se mueven a través de columnas que representan estados del proceso.
-M. Un ERP (Enterprise Resource Planning) es un sistema de planificación de recursos empresaria
+M. Un ERP (Enterprise Resource Planning) es un sistema de planificación de recursos empresaria.
+
+
+-------------------------------------------------------------------------------------------------------------
+
 
 ### Ejercicio 7
 
+<img width="1440" alt="Captura de pantalla 2023-12-29 a la(s) 20 36 21" src="https://github.com/coloradoar/procontacto_tp/assets/84077767/cbb9ccbf-ec96-41f2-8a90-28cd3ca057e3">
+
+<img width="1278" alt="Captura de pantalla 2023-12-29 a la(s) 20 39 14" src="https://github.com/coloradoar/procontacto_tp/assets/84077767/abe06d42-bae6-44da-8b5c-bef02158bc8a">
+
+<img width="502" alt="Captura de pantalla 2023-12-29 a la(s) 20 38 34" src="https://github.com/coloradoar/procontacto_tp/assets/84077767/0f16acb5-cf1f-4353-8c39-97daf750c76f">
+
+<img width="1207" alt="Captura de pantalla 2023-12-29 a la(s) 21 25 32" src="https://github.com/coloradoar/procontacto_tp/assets/84077767/957d5559-91fe-4162-a4ab-9e8d895c3632">
+
+
+<img width="1440" alt="success2" src="https://github.com/coloradoar/procontacto_tp/assets/84077767/068d384f-0d32-410c-bb3c-04618a63574f">
+
+<img width="1440" alt="success1" src="https://github.com/coloradoar/procontacto_tp/assets/84077767/230894c0-5ba2-457f-a4f9-c2fdc01d87a7">
