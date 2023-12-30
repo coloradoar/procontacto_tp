@@ -170,3 +170,5 @@ M. Un ERP (Enterprise Resource Planning) es un sistema de planificación de recu
 <img width="1440" alt="success2" src="https://github.com/coloradoar/procontacto_tp/assets/84077767/068d384f-0d32-410c-bb3c-04618a63574f">
 
 <img width="1440" alt="success1" src="https://github.com/coloradoar/procontacto_tp/assets/84077767/230894c0-5ba2-457f-a4f9-c2fdc01d87a7">
+
+<img width="1091" alt="success" src="https://github.com/coloradoar/procontacto_tp/assets/84077767/5476b81a-f9e0-4b28-8b44-bbadc48b8c8b">
